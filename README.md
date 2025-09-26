@@ -1,4 +1,4 @@
-<img width="615" height="141" alt="image" src="https://github.com/user-attachments/assets/17d5f01e-808d-49f9-89c1-47b54f8429fd" /># 👋 Hi, I'm Pedro Mendonça
+# 👋 Hi, I'm Pedro Mendonça
 
 🎓 Information Systems undergraduate | 📊 Aspiring Data Scientist
 
