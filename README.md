@@ -3,7 +3,7 @@
 🎓 Information Systems undergraduate | 📊 Aspiring Data Scientist
 
 ## 🚀 About Me
-- Passionate about Data Science, Web Development, and Problem Solving.
+- Passionate about Data Science, Business, and Problem Solving.
 - Scholarship holder producing Python video lessons and study materials (August,2023 - March, 2024).
 
 ## 🛠️ Tech Toolbox
