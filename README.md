@@ -1,11 +1,10 @@
-# 👋 Hi, I'm Pedro Mendonça
+<img width="615" height="141" alt="image" src="https://github.com/user-attachments/assets/17d5f01e-808d-49f9-89c1-47b54f8429fd" /># 👋 Hi, I'm Pedro Mendonça
 
 🎓 Information Systems undergraduate | 📊 Aspiring Data Scientist
 
 ## 🚀 About Me
-- Scholarship holder producing Python video lessons and study materials (August,2023 - March, 2024).
-- Former member of **Fonte Jr** (business & web development, October, 2023– August, 2024).
 - Passionate about Data Science, Web Development, and Problem Solving.
+- Scholarship holder producing Python video lessons and study materials (August,2023 - March, 2024).
 
 ## 🛠️ Tech Toolbox
 <p align="center">
