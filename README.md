@@ -28,13 +28,12 @@
 
 ## 🌟 Goals
 - Gain hands-on experience in Data Science & Software Development.
-- Blend business understanding with technical skills to help companies.
+- Blend business understanding with technical skills to help companies achieve better results.
 
 ---
 
 ## 📫 Contact
-- LinkedIn: [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/p-mendoncad/)
-- Email: pedro@example.com (replace with preferred contact)
+[![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/p-mendoncad/)
 
 ---
 ⭐️ *Always learning, always building.*
