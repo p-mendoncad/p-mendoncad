@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pedro Mendonça
 
-🎓 Information Systems undergraduate | 📊 Aspiring Data Scientist
+🎓 Information Systems undergraduate | 📊 Aspiring Data Scientist & 🧑‍💻 Back-end Developer
 
 ## 🚀 About Me
 - Passionate about Data Science, Business, and Problem Solving.
@@ -18,7 +18,7 @@
 </p>
 
 ## 📚 Currently Exploring
-- Power BI, ML fundamentals and Computational vision.
+- Power BI, ML fundamentals, Django.
 
 ## 🌟 Goals
 - Gain hands-on experience in Data Science & Software Development.
